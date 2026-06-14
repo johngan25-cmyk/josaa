@@ -46,6 +46,10 @@ const userSchema = new mongoose.Schema(
       required: true,
       enum: ["gender-nutral", "female-only"],
     },
+    isEmailVerified: {
+        type: Boolean,
+        default: false,
+    },
   },
   {
     timestamps: true,
