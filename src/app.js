@@ -2,7 +2,8 @@ import express from 'express';
 import cors from 'cors';
 import User from "../models/user.js";
 import createUser from "../routes/createUser.js";
-import getUser from '../routes/getUser.js'
+import getUser from '../routes/getUser.js';
+import otp from '../routes/otp.js';
 
 const app = express();
 
@@ -12,5 +13,6 @@ app.use(express.json());
 
 app.use('/api',createUser);
 app.use('/api',getUser);
+app.use('/api',otp);
 
 export default app;
