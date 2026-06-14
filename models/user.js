@@ -6,6 +6,7 @@ const userSchema = new mongoose.Schema(
     name: {
       type: String,
       required: true,
+      lowercase: true,
       trim: true,
     },
 
@@ -37,7 +38,7 @@ const userSchema = new mongoose.Schema(
     category: {
       type: String,
       required: true,
-      enum: ["OPEN", "EWS", "OBC-NCL", "SC", "ST"],
+      enum: ["open", "ews", "obc-ncl", "sc", "st"],
     },
 
     gender: {

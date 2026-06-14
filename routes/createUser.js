@@ -1,9 +1,9 @@
 import express from "express";
-import User from "../models/User.js";
+import User from "../models/user.js";
 
 const router = express.Router();
 
-router.post("/create-user", async (req, res) => {
+router.post("/register-user", async (req, res) => {
   try {
     const result = await User.create(req.body);
 
