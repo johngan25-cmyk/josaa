@@ -58,7 +58,7 @@ export const sendOtp = async (req, res) => {
     await Otp.create({
       email: normalizedEmail,
       otp: hashedOtp,
-      expiresAt: new Date(Date.now() + 5 * 60 * 1000),
+      expiresAt: new Date(Date.now() + 3 * 60 * 1000),
     });
 
     await transporter.sendMail({
@@ -86,7 +86,7 @@ export const sendOtp = async (req, res) => {
           </div>
 
           <p style="margin-top:20px;">
-            This code will expire in 5 minutes.
+            This code will expire in 3 minutes.
           </p>
 
           <p>
