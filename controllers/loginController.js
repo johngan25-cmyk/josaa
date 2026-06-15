@@ -1,6 +1,5 @@
-
 import User from "../models/user.js";
-
+import jwt from "jsonwebtoken";
 
 
 
@@ -41,9 +40,20 @@ export const login =async (req, res) => {
         message: "Email not verified",
       });
     }
+    const token = jwt.sign(
+      {
+        userId: user._id,
+        email: user.email,
+      },
+      process.env.JWT_SECRET,
+      {
+        expiresIn: "30d",
+      }
+    );
 
     res.json({
       success: true,
+      token,
       data: {
         _id: user._id,
         name: user.name,
