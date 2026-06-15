@@ -29,12 +29,10 @@ const userPreferenceSchema = new mongoose.Schema(
 
     closingRank2024: {
       type: Number,
-      min: 1,
     },
 
     closingRank2025: {
       type: Number,
-      min: 1,
     },
     skipped: {
         type: Boolean,
