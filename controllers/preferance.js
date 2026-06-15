@@ -49,3 +49,30 @@ export const savePreferences = async (req, res) => {
     });
   }
 };
+
+export const getPreferences = async (req, res) => {
+  try {
+    const userId = req.user.userId;
+
+    const preferences = await UserPreference.find({
+      userId,
+    })
+      .sort({
+        preferenceIndex: 1,
+      })
+      .select("-__v");
+
+    res.json({
+      success: true,
+      count: preferences.length,
+      data: preferences,
+    });
+  } catch (error) {
+    console.error(error);
+
+    res.status(500).json({
+      success: false,
+      message: "Internal server error",
+    });
+  }
+};
