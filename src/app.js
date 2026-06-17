@@ -7,6 +7,7 @@ import otp from '../routes/otp.js';
 import login from '../routes/login.js';
 import preflist from '../routes/preflist.js';
 import setCutoffs from "../routes/sendCutoffData.js";
+import instituteInfo from "../routes/instituteInfo.js";
 //import test from '../routes/test.js';
 
 const app = express();
@@ -21,6 +22,7 @@ app.use('/api',otp);
 app.use('/api',login);
 app.use('/api',preflist);
 app.use('/api',setCutoffs);
+app.use('/api',instituteInfo);
 //app.use('/api',test);
 
 export default app;
