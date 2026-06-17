@@ -2,6 +2,7 @@
   "iits": [
     {
       "name": "Indian Institute of Technology Madras",
+      "mapped_name": "IIT Madras",
       "city": "Chennai",
       "state": "Tamil Nadu",
       "year_established": 1959,
@@ -39,6 +40,7 @@
     },
     {
       "name": "Indian Institute of Technology Delhi",
+      "mapped_name": "IIT Delhi",
       "city": "New Delhi",
       "state": "Delhi",
       "year_established": 1961,
@@ -76,6 +78,7 @@
     },
     {
       "name": "Indian Institute of Technology Bombay",
+      "mapped_name": "IIT Bombay",
       "city": "Mumbai",
       "state": "Maharashtra",
       "year_established": 1958,
@@ -113,6 +116,7 @@
     },
     {
       "name": "Indian Institute of Technology Kanpur",
+      "mapped_name": "IIT Kanpur",
       "city": "Kanpur",
       "state": "Uttar Pradesh",
       "year_established": 1959,
@@ -150,6 +154,7 @@
     },
     {
       "name": "Indian Institute of Technology Kharagpur",
+      "mapped_name": "IIT Kharagpur",
       "city": "Kharagpur",
       "state": "West Bengal",
       "year_established": 1951,
@@ -187,6 +192,7 @@
     },
     {
       "name": "Indian Institute of Technology Roorkee",
+      "mapped_name": "IIT Roorkee",
       "city": "Roorkee",
       "state": "Uttarakhand",
       "year_established": 1847,
@@ -224,6 +230,7 @@
     },
     {
       "name": "Indian Institute of Technology Hyderabad",
+      "mapped_name": "IIT Hyderabad",
       "city": "Sangareddy",
       "state": "Telangana",
       "year_established": 2008,
@@ -261,6 +268,7 @@
     },
     {
       "name": "Indian Institute of Technology Gandhinagar",
+      "mapped_name": "IIT Gandhinagar",
       "city": "Gandhinagar",
       "state": "Gujarat",
       "year_established": 2008,
@@ -298,6 +306,7 @@
     },
     {
       "name": "Indian Institute of Technology Ropar",
+      "mapped_name": "IIT Ropar",
       "city": "Rupnagar",
       "state": "Punjab",
       "year_established": 2008,
@@ -335,6 +344,7 @@
     },
     {
       "name": "Indian Institute of Technology Patna",
+      "mapped_name": "IIT Patna",
       "city": "Patna",
       "state": "Bihar",
       "year_established": 2008,
@@ -372,6 +382,7 @@
     },
     {
       "name": "Indian Institute of Technology Guwahati",
+      "mapped_name": "IIT Guwahati",
       "city": "Guwahati",
       "state": "Assam",
       "year_established": 1994,
@@ -409,6 +420,7 @@
     },
     {
       "name": "Indian Institute of Technology (BHU) Varanasi",
+      "mapped_name": "IIT BHU Varanasi",
       "city": "Varanasi",
       "state": "Uttar Pradesh",
       "year_established": 1919,
@@ -446,6 +458,7 @@
     },
     {
       "name": "Indian Institute of Technology Indore",
+      "mapped_name": "IIT Indore",
       "city": "Indore",
       "state": "Madhya Pradesh",
       "year_established": 2009,
@@ -483,6 +496,7 @@
     },
     {
       "name": "Indian Institute of Technology (Indian School of Mines) Dhanbad",
+      "mapped_name": "IIT ISM Dhanbad",
       "city": "Dhanbad",
       "state": "Jharkhand",
       "year_established": 1926,
@@ -520,6 +534,7 @@
     },
     {
       "name": "Indian Institute of Technology Mandi",
+      "mapped_name": "IIT Mandi",
       "city": "Mandi",
       "state": "Himachal Pradesh",
       "year_established": 2009,
@@ -557,6 +572,7 @@
     },
     {
       "name": "Indian Institute of Technology Jodhpur",
+      "mapped_name": "IIT Jodhpur",
       "city": "Jodhpur",
       "state": "Rajasthan",
       "year_established": 2008,
@@ -594,6 +610,7 @@
     },
     {
       "name": "Indian Institute of Technology Bhubaneswar",
+      "mapped_name": "IIT Bhubaneswar",
       "city": "Bhubaneswar",
       "state": "Odisha",
       "year_established": 2008,
@@ -631,6 +648,7 @@
     },
     {
       "name": "Indian Institute of Technology Jammu",
+      "mapped_name": "IIT Jammu",
       "city": "Jammu",
       "state": "Jammu and Kashmir",
       "year_established": 2016,
@@ -668,6 +686,7 @@
     },
     {
       "name": "Indian Institute of Technology Tirupati",
+      "mapped_name": "IIT Tirupati",
       "city": "Tirupati",
       "state": "Andhra Pradesh",
       "year_established": 2015,
@@ -705,6 +724,7 @@
     },
     {
       "name": "Indian Institute of Technology Palakkad",
+      "mapped_name": "IIT Palakkad",
       "city": "Palakkad",
       "state": "Kerala",
       "year_established": 2015,
@@ -742,6 +762,7 @@
     },
     {
       "name": "Indian Institute of Technology Bhilai",
+      "mapped_name": "IIT Bhilai",
       "city": "Bhilai",
       "state": "Chhattisgarh",
       "year_established": 2016,
@@ -779,6 +800,7 @@
     },
     {
       "name": "Indian Institute of Technology Dharwad",
+      "mapped_name": "IIT Dharwad",
       "city": "Dharwad",
       "state": "Karnataka",
       "year_established": 2016,
@@ -816,6 +838,7 @@
     },
     {
       "name": "Indian Institute of Technology Goa",
+      "mapped_name": "IIT Goa",
       "city": "Ponda",
       "state": "Goa",
       "year_established": 2016,
@@ -855,6 +878,7 @@
   "nits": [
     {
       "name": "National Institute of Technology Tiruchirappalli",
+      "mapped_name": "NIT Tiruchirappalli",
       "city": "Tiruchirappalli",
       "state": "Tamil Nadu",
       "year_established": 1964,
@@ -892,6 +916,7 @@
     },
     {
       "name": "National Institute of Technology Karnataka, Surathkal",
+      "mapped_name": "NIT Surathkal",
       "city": "Mangaluru",
       "state": "Karnataka",
       "year_established": 1960,
@@ -929,6 +954,7 @@
     },
     {
       "name": "National Institute of Technology Rourkela",
+      "mapped_name": "NIT Rourkela",
       "city": "Rourkela",
       "state": "Odisha",
       "year_established": 1961,
@@ -966,6 +992,7 @@
     },
     {
       "name": "National Institute of Technology Warangal",
+      "mapped_name": "NIT Warangal",
       "city": "Warangal",
       "state": "Telangana",
       "year_established": 1959,
@@ -1003,6 +1030,7 @@
     },
     {
       "name": "National Institute of Technology Calicut",
+      "mapped_name": "NIT Calicut",
       "city": "Kozhikode",
       "state": "Kerala",
       "year_established": 1961,
@@ -1040,6 +1068,7 @@
     },
     {
       "name": "Visvesvaraya National Institute of Technology, Nagpur",
+      "mapped_name": "VNIT Nagpur",
       "city": "Nagpur",
       "state": "Maharashtra",
       "year_established": 1960,
@@ -1077,6 +1106,7 @@
     },
     {
       "name": "Motilal Nehru National Institute of Technology Allahabad",
+      "mapped_name": "MNNIT Allahabad",
       "city": "Prayagraj",
       "state": "Uttar Pradesh",
       "year_established": 1961,
@@ -1114,6 +1144,7 @@
     },
     {
       "name": "Sardar Vallabhbhai National Institute of Technology, Surat",
+      "mapped_name": "SVNIT Surat",
       "city": "Surat",
       "state": "Gujarat",
       "year_established": 1961,
@@ -1151,6 +1182,7 @@
     },
     {
       "name": "National Institute of Technology Silchar",
+      "mapped_name": "NIT Silchar",
       "city": "Silchar",
       "state": "Assam",
       "year_established": 1967,
@@ -1188,6 +1220,7 @@
     },
     {
       "name": "Malaviya National Institute of Technology Jaipur",
+      "mapped_name": "MNIT Jaipur",
       "city": "Jaipur",
       "state": "Rajasthan",
       "year_established": 1963,
@@ -1225,6 +1258,7 @@
     },
     {
       "name": "National Institute of Technology Durgapur",
+      "mapped_name": "NIT Durgapur",
       "city": "Durgapur",
       "state": "West Bengal",
       "year_established": 1960,
@@ -1262,6 +1296,7 @@
     },
     {
       "name": "National Institute of Technology Delhi",
+      "mapped_name": "NIT Delhi",
       "city": "New Delhi",
       "state": "Delhi",
       "year_established": 2010,
@@ -1299,6 +1334,7 @@
     },
     {
       "name": "National Institute of Technology Kurukshetra",
+      "mapped_name": "NIT Kurukshetra",
       "city": "Kurukshetra",
       "state": "Haryana",
       "year_established": 1963,
@@ -1336,6 +1372,7 @@
     },
     {
       "name": "National Institute of Technology Patna",
+      "mapped_name": "NIT Patna",
       "city": "Patna",
       "state": "Bihar",
       "year_established": 1886,
@@ -1373,6 +1410,7 @@
     },
     {
       "name": "Dr. B. R. Ambedkar National Institute of Technology Jalandhar",
+      "mapped_name": "NIT Jalandhar",
       "city": "Jalandhar",
       "state": "Punjab",
       "year_established": 1987,
@@ -1410,6 +1448,7 @@
     },
     {
       "name": "National Institute of Technology Meghalaya",
+      "mapped_name": "NIT Meghalaya",
       "city": "Shillong",
       "state": "Meghalaya",
       "year_established": 2010,
@@ -1447,6 +1486,7 @@
     },
     {
       "name": "National Institute of Technology Raipur",
+      "mapped_name": "NIT Raipur",
       "city": "Raipur",
       "state": "Chhattisgarh",
       "year_established": 1956,
@@ -1484,6 +1524,7 @@
     },
     {
       "name": "Maulana Azad National Institute of Technology Bhopal",
+      "mapped_name": "MANIT Bhopal",
       "city": "Bhopal",
       "state": "Madhya Pradesh",
       "year_established": 1960,
@@ -1521,6 +1562,7 @@
     },
     {
       "name": "National Institute of Technology Srinagar",
+      "mapped_name": "NIT Srinagar",
       "city": "Srinagar",
       "state": "Jammu and Kashmir",
       "year_established": 1960,
@@ -1558,6 +1600,7 @@
     },
     {
       "name": "National Institute of Technology Agartala",
+      "mapped_name": "NIT Agartala",
       "city": "Agartala",
       "state": "Tripura",
       "year_established": 1965,
@@ -1595,6 +1638,7 @@
     },
     {
       "name": "National Institute of Technology, Jamshedpur",
+      "mapped_name": "NIT Jamshedpur",
       "city": "Jamshedpur",
       "state": "Jharkhand",
       "year_established": 1960,
@@ -1632,6 +1676,7 @@
     },
     {
       "name": "National Institute of Technology Goa",
+      "mapped_name": "NIT Goa",
       "city": "Ponda",
       "state": "Goa",
       "year_established": 2010,
@@ -1669,6 +1714,7 @@
     },
     {
       "name": "National Institute of Technology Manipur",
+      "mapped_name": "NIT Manipur",
       "city": "Imphal",
       "state": "Manipur",
       "year_established": 2010,
@@ -1706,6 +1752,7 @@
     },
     {
       "name": "National Institute of Technology Hamirpur",
+      "mapped_name": "NIT Hamirpur",
       "city": "Hamirpur",
       "state": "Himachal Pradesh",
       "year_established": 1986,
@@ -1743,6 +1790,7 @@
     },
     {
       "name": "National Institute of Technology Uttarakhand",
+      "mapped_name": "NIT Uttarakhand",
       "city": "Srinagar (Garhwal)",
       "state": "Uttarakhand",
       "year_established": 2010,
@@ -1780,6 +1828,7 @@
     },
     {
       "name": "National Institute of Technology Mizoram",
+      "mapped_name": "NIT Mizoram",
       "city": "Aizawl",
       "state": "Mizoram",
       "year_established": 2010,
@@ -1817,6 +1866,7 @@
     },
     {
       "name": "National Institute of Technology Arunachal Pradesh",
+      "mapped_name": "NIT Arunachal Pradesh",
       "city": "Jupang",
       "state": "Arunachal Pradesh",
       "year_established": 2010,
@@ -1854,6 +1904,7 @@
     },
     {
       "name": "National Institute of Technology Nagaland",
+      "mapped_name": "NIT Nagaland",
       "city": "Chümoukedima",
       "state": "Nagaland",
       "year_established": 2010,
@@ -1891,6 +1942,7 @@
     },
     {
       "name": "National Institute of Technology Sikkim",
+      "mapped_name": "NIT Sikkim",
       "city": "Ravangla",
       "state": "Sikkim",
       "year_established": 2010,
@@ -1928,6 +1980,7 @@
     },
     {
       "name": "National Institute of Technology Puducherry",
+      "mapped_name": "NIT Puducherry",
       "city": "Karaikal",
       "state": "Puducherry",
       "year_established": 2010,
@@ -1965,6 +2018,7 @@
     },
     {
       "name": "National Institute of Technology Andhra Pradesh",
+      "mapped_name": "NIT Andhra Pradesh",
       "city": "Tadepalligudem",
       "state": "Andhra Pradesh",
       "year_established": 2015,
@@ -2004,6 +2058,7 @@
   "iiits": [
     {
       "name": "Indian Institute of Information Technology Allahabad",
+      "mapped_name": "IIIT Allahabad",
       "city": "Prayagraj",
       "state": "Uttar Pradesh",
       "year_established": 1999,
@@ -2041,6 +2096,7 @@
     },
     {
       "name": "Atal Bihari Vajpayee Indian Institute of Information Technology and Management Gwalior",
+      "mapped_name": "IIITM Gwalior",
       "city": "Gwalior",
       "state": "Madhya Pradesh",
       "year_established": 1997,
@@ -2078,6 +2134,7 @@
     },
     {
       "name": "Indian Institute of Information Technology, Design and Manufacturing, Jabalpur",
+      "mapped_name": "IIITDM Jabalpur",
       "city": "Jabalpur",
       "state": "Madhya Pradesh",
       "year_established": 2005,
@@ -2115,6 +2172,7 @@
     },
     {
       "name": "Indian Institute of Information Technology, Design and Manufacturing, Kancheepuram",
+      "mapped_name": "IIITDM Kancheepuram",
       "city": "Chennai",
       "state": "Tamil Nadu",
       "year_established": 2007,
@@ -2152,6 +2210,7 @@
     },
     {
       "name": "International Institute of Information Technology Hyderabad",
+      "mapped_name": "IIIT Hyderabad",
       "city": "Hyderabad",
       "state": "Telangana",
       "year_established": 1998,
@@ -2189,6 +2248,7 @@
     },
     {
       "name": "International Institute of Information Technology, Bangalore",
+      "mapped_name": "IIIT Bangalore",
       "city": "Bengaluru",
       "state": "Karnataka",
       "year_established": 1999,
@@ -2226,6 +2286,7 @@
     },
     {
       "name": "Indraprastha Institute of Information Technology Delhi",
+      "mapped_name": "IIIT Delhi",
       "city": "New Delhi",
       "state": "Delhi",
       "year_established": 2008,
@@ -2263,6 +2324,7 @@
     },
     {
       "name": "Indian Institute of Information Technology Guwahati",
+      "mapped_name": "IIIT Guwahati",
       "city": "Guwahati",
       "state": "Assam",
       "year_established": 2013,
@@ -2300,6 +2362,7 @@
     },
     {
       "name": "Indian Institute of Information Technology Kota",
+      "mapped_name": "IIIT Kota",
       "city": "Kota",
       "state": "Rajasthan",
       "year_established": 2013,
@@ -2337,6 +2400,7 @@
     },
     {
       "name": "Indian Institute of Information Technology Sri City",
+      "mapped_name": "IIIT Sri City",
       "city": "Chittoor",
       "state": "Andhra Pradesh",
       "year_established": 2013,
@@ -2374,6 +2438,7 @@
     },
     {
       "name": "Indian Institute of Information Technology Vadodara",
+      "mapped_name": "IIIT Vadodara",
       "city": "Gandhinagar",
       "state": "Gujarat",
       "year_established": 2013,
@@ -2411,6 +2476,7 @@
     },
     {
       "name": "Indian Institute of Information Technology Lucknow",
+      "mapped_name": "IIIT Lucknow",
       "city": "Lucknow",
       "state": "Uttar Pradesh",
       "year_established": 2015,
@@ -2448,6 +2514,7 @@
     },
     {
       "name": "Indian Institute of Information Technology Nagpur",
+      "mapped_name": "IIIT Nagpur",
       "city": "Nagpur",
       "state": "Maharashtra",
       "year_established": 2016,
@@ -2485,6 +2552,7 @@
     },
     {
       "name": "Indian Institute of Information Technology Pune",
+      "mapped_name": "IIIT Pune",
       "city": "Pune",
       "state": "Maharashtra",
       "year_established": 2016,
@@ -2522,6 +2590,7 @@
     },
     {
       "name": "Indian Institute of Information Technology Una",
+      "mapped_name": "IIIT Una",
       "city": "Una",
       "state": "Himachal Pradesh",
       "year_established": 2014,
@@ -2559,6 +2628,7 @@
     },
     {
       "name": "Indian Institute of Information Technology Surat",
+      "mapped_name": "IIIT Surat",
       "city": "Surat",
       "state": "Gujarat",
       "year_established": 2016,
@@ -2596,6 +2666,7 @@
     },
     {
       "name": "Indian Institute of Information Technology Tiruchirappalli",
+      "mapped_name": "IIIT Tiruchirappalli",
       "city": "Tiruchirappalli",
       "state": "Tamil Nadu",
       "year_established": 2013,
@@ -2633,6 +2704,7 @@
     },
     {
       "name": "Indian Institute of Information Technology Dharwad",
+      "mapped_name": "IIIT Dharwad",
       "city": "Dharwad",
       "state": "Karnataka",
       "year_established": 2015,
@@ -2670,6 +2742,7 @@
     },
     {
       "name": "Indian Institute of Information Technology Kalyani",
+      "mapped_name": "IIIT Kalyani",
       "city": "Kalyani",
       "state": "West Bengal",
       "year_established": 2014,
@@ -2707,6 +2780,7 @@
     },
     {
       "name": "Indian Institute of Information Technology Sonepat",
+      "mapped_name": "IIIT Sonepat",
       "city": "Sonepat",
       "state": "Haryana",
       "year_established": 2014,
@@ -2744,6 +2818,7 @@
     },
     {
       "name": "Indian Institute of Information Technology Kurnool",
+      "mapped_name": "IIITDM Kurnool",
       "city": "Kurnool",
       "state": "Andhra Pradesh",
       "year_established": 2015,
@@ -2781,6 +2856,7 @@
     },
     {
       "name": "Indian Institute of Information Technology Kottayam",
+      "mapped_name": "IIIT Kottayam",
       "city": "Kottayam",
       "state": "Kerala",
       "year_established": 2015,
@@ -2818,6 +2894,7 @@
     },
     {
       "name": "Indian Institute of Information Technology Kilohrad",
+      "mapped_name": "IIIT Sonepat",
       "city": "Sonepat",
       "state": "Haryana",
       "year_established": 2014,
@@ -2855,6 +2932,7 @@
     },
     {
       "name": "Indian Institute of Information Technology Vadodara International Campus Diu",
+      "mapped_name": "IIIT Vadodara Diu Campus",
       "city": "Diu",
       "state": "Dadra and Nagar Haveli and Daman and Diu",
       "year_established": 2020,
@@ -2892,6 +2970,7 @@
     },
     {
       "name": "Indian Institute of Information Technology Ranchi",
+      "mapped_name": "IIIT Ranchi",
       "city": "Ranchi",
       "state": "Jharkhand",
       "year_established": 2016,
@@ -2929,6 +3008,7 @@
     },
     {
       "name": "Indian Institute of Information Technology Bhagalpur",
+      "mapped_name": "IIIT Bhagalpur",
       "city": "Bhagalpur",
       "state": "Bihar",
       "year_established": 2017,
@@ -2963,13 +3043,12 @@
       "campus_personality": "Disciplined, determined, culturally traditional, and rapidly evolving in its academic infrastructure footprint.",
       "notable_feature": "Features state-of-the-art incubation facilities specializing in industrial IoT architectures and speech-to-speech translation tech frameworks.",
       "campus_rating": 4.3
-
     }
   ],
-  
   "gftis": [
     {
       "name": "Assam University, Silchar",
+      "mapped_name": "Assam University Silchar",
       "city": "Silchar",
       "state": "Assam",
       "year_established": 1994,
@@ -3005,6 +3084,7 @@
     },
     {
       "name": "Birla Institute of Technology, Deoghar Off-Campus",
+      "mapped_name": "BIT Deoghar",
       "city": "Deoghar",
       "state": "Jharkhand",
       "year_established": 2007,
@@ -3039,6 +3119,7 @@
     },
     {
       "name": "Birla Institute of Technology, Patna Off-Campus",
+      "mapped_name": "BIT Patna",
       "city": "Patna",
       "state": "Bihar",
       "year_established": 2006,
@@ -3076,6 +3157,7 @@
     },
     {
       "name": "CU Jharkhand",
+      "mapped_name": "CU Jharkhand",
       "city": "Ranchi",
       "state": "Jharkhand",
       "year_established": 2009,
@@ -3113,6 +3195,7 @@
     },
     {
       "name": "Central University of Haryana",
+      "mapped_name": "CU Haryana",
       "city": "Mahendergarh",
       "state": "Haryana",
       "year_established": 2009,
@@ -3150,6 +3233,7 @@
     },
     {
       "name": "Central University of Jammu",
+      "mapped_name": "CU Jammu",
       "city": "Jammu",
       "state": "Jammu & Kashmir",
       "year_established": 2011,
@@ -3187,6 +3271,7 @@
     },
     {
       "name": "Central University of Karnataka",
+      "mapped_name": "CU Karnataka",
       "city": "Kalaburagi",
       "state": "Karnataka",
       "year_established": 2009,
@@ -3224,6 +3309,7 @@
     },
     {
       "name": "Central University of Punjab, Bathinda",
+      "mapped_name": "CU Punjab Bathinda",
       "city": "Bathinda",
       "state": "Punjab",
       "year_established": 2009,
@@ -3261,6 +3347,7 @@
     },
     {
       "name": "Central University of Rajasthan, Rajasthan",
+      "mapped_name": "CU Rajasthan",
       "city": "Ajmer",
       "state": "Rajasthan",
       "year_established": 2009,
@@ -3298,6 +3385,7 @@
     },
     {
       "name": "Central institute of Technology Kokrajar, Assam",
+      "mapped_name": "CIT Kokrajhar",
       "city": "Kokrajhar",
       "state": "Assam",
       "year_established": 2006,
@@ -3335,6 +3423,7 @@
     },
     {
       "name": "Chhattisgarh Swami Vivekanada Technical University, Bhilai (CSVTU Bhilai)",
+      "mapped_name": "CSVTU Bhilai",
       "city": "Bhilai",
       "state": "Chhattisgarh",
       "year_established": 2005,
@@ -3372,6 +3461,7 @@
     },
     {
       "name": "Gati Shakti Vishwavidyalaya, Vadodara",
+      "mapped_name": "GSV Vadodara",
       "city": "Vadodara",
       "state": "Gujarat",
       "year_established": 2022,
@@ -3409,6 +3499,7 @@
     },
     {
       "name": "Ghani Khan Choudhary Institute of Engineering and Technology, Malda, West Bengal",
+      "mapped_name": "GKCIET Malda",
       "city": "Malda",
       "state": "West Bengal",
       "year_established": 2010,
@@ -3446,6 +3537,7 @@
     },
     {
       "name": "Gurukula Kangri Vishwavidyalaya, Haridwar",
+      "mapped_name": "Gurukula Kangri Haridwar",
       "city": "Haridwar",
       "state": "Uttarakhand",
       "year_established": 1902,
@@ -3483,6 +3575,7 @@
     },
     {
       "name": "Indian Institute of Handloom Technology(IIHT), Varanasi",
+      "mapped_name": "IIHT Varanasi",
       "city": "Varanasi",
       "state": "Uttar Pradesh",
       "year_established": 1956,
@@ -3520,6 +3613,7 @@
     },
     {
       "name": "Indian Institute of Handloom Technology, Salem",
+      "mapped_name": "IIHT Salem",
       "city": "Salem",
       "state": "Tamil Nadu",
       "year_established": 1960,
@@ -3557,6 +3651,7 @@
     },
     {
       "name": "Institute of Chemical Technology, Mumbai: Indian Oil Odisha Campus, Bhubaneswar",
+      "mapped_name": "ICT Mumbai IOC Bhubaneswar",
       "city": "Bhubaneswar",
       "state": "Odisha",
       "year_established": 2018,
@@ -3594,6 +3689,7 @@
     },
     {
       "name": "Institute of Engineering and Technology, Dr. H. S. Gour University. Sagar (A Central University)",
+      "mapped_name": "IET Dr. H. S. Gour University Sagar",
       "city": "Sagar",
       "state": "Madhya Pradesh",
       "year_established": 1946,
@@ -3631,6 +3727,7 @@
     },
     {
       "name": "Institute of Infrastructure, Technology, Research and Management-Ahmedabad",
+      "mapped_name": "IITRAM Ahmedabad",
       "city": "Ahmedabad",
       "state": "Gujarat",
       "year_established": 2013,
@@ -3668,6 +3765,7 @@
     },
     {
       "name": "International Institute of Information Technology, Bhubaneswar",
+      "mapped_name": "IIIT Bhubaneswar",
       "city": "Bhubaneswar",
       "state": "Odisha",
       "year_established": 2006,
@@ -3705,6 +3803,7 @@
     },
     {
       "name": "International Institute of Information Technology, Naya Raipur",
+      "mapped_name": "IIIT Naya Raipur",
       "city": "Naya Raipur",
       "state": "Chhattisgarh",
       "year_established": 2015,
@@ -3742,6 +3841,7 @@
     },
     {
       "name": "Islamic University of Science and Technology Kashmir",
+      "mapped_name": "IUST Kashmir",
       "city": "Awantipora",
       "state": "Jammu & Kashmir",
       "year_established": 2005,
@@ -3779,6 +3879,7 @@
     },
     {
       "name": "J.K. Institute of Applied Physics & Technology, Department of Electronics & Communication, University of Allahabad- Allahabad",
+      "mapped_name": "JK Institute Allahabad",
       "city": "Allahabad",
       "state": "Uttar Pradesh",
       "year_established": 1956,
@@ -3816,6 +3917,7 @@
     },
     {
       "name": "Jawaharlal Nehru University, Delhi",
+      "mapped_name": "JNU Delhi",
       "city": "New Delhi",
       "state": "Delhi",
       "year_established": 1969,
@@ -3853,6 +3955,7 @@
     },
     {
       "name": "Mizoram University, Aizawl",
+      "mapped_name": "Mizoram University Aizawl",
       "city": "Aizawl",
       "state": "Mizoram",
       "year_established": 2001,
@@ -3890,6 +3993,7 @@
     },
     {
       "name": "National Institute of Advanced Manufacturing Technology, Ranchi",
+      "mapped_name": "NIAMT Ranchi",
       "city": "Ranchi",
       "state": "Jharkhand",
       "year_established": 1966,
@@ -3927,6 +4031,7 @@
     },
     {
       "name": "National Institute of Electronics and Information Technology, Agartala",
+      "mapped_name": "NIELIT Agartala",
       "city": "Agartala",
       "state": "Tripura",
       "year_established": 2010,
@@ -3964,6 +4069,7 @@
     },
     {
       "name": "National Institute of Electronics and Information Technology, Aizawl",
+      "mapped_name": "NIELIT Aizawl",
       "city": "Aizawl",
       "state": "Mizoram",
       "year_established": 2001,
@@ -4001,6 +4107,7 @@
     },
     {
       "name": "National Institute of Electronics and Information Technology, Ajmer (Rajasthan)",
+      "mapped_name": "NIELIT Ajmer",
       "city": "Ajmer",
       "state": "Rajasthan",
       "year_established": 2012,
@@ -4038,6 +4145,7 @@
     },
     {
       "name": "National Institute of Electronics and Information Technology, Aurangabad (Maharashtra)",
+      "mapped_name": "NIELIT Aurangabad",
       "city": "Aurangabad",
       "state": "Maharashtra",
       "year_established": 1986,
@@ -4075,6 +4183,7 @@
     },
     {
       "name": "National Institute of Electronics and Information Technology, Calicut",
+      "mapped_name": "NIELIT Calicut",
       "city": "Calicut",
       "state": "Kerala",
       "year_established": 1989,
@@ -4112,6 +4221,7 @@
     },
     {
       "name": "National Institute of Electronics and Information Technology, Gorakhpur (UP)",
+      "mapped_name": "NIELIT Gorakhpur",
       "city": "Gorakhpur",
       "state": "Uttar Pradesh",
       "year_established": 1989,
@@ -4149,6 +4259,7 @@
     },
     {
       "name": "National Institute of Electronics and Information Technology, Imphal",
+      "mapped_name": "NIELIT Imphal",
       "city": "Imphal",
       "state": "Manipur",
       "year_established": 1988,
@@ -4186,6 +4297,7 @@
     },
     {
       "name": "National Institute of Electronics and Information Technology, Kohima",
+      "mapped_name": "NIELIT Kohima",
       "city": "Kohima",
       "state": "Nagaland",
       "year_established": 2004,
@@ -4223,6 +4335,7 @@
     },
     {
       "name": "National Institute of Electronics and Information Technology, Patna (Bihar)",
+      "mapped_name": "NIELIT Patna",
       "city": "Patna",
       "state": "Bihar",
       "year_established": 2012,
@@ -4260,6 +4373,7 @@
     },
     {
       "name": "National Institute of Electronics and Information Technology, Ropar (Punjab)",
+      "mapped_name": "NIELIT Ropar",
       "city": "Ropar",
       "state": "Punjab",
       "year_established": 2016,
@@ -4297,6 +4411,7 @@
     },
     {
       "name": "National Institute of Electronics and Information Technology, Srinagar",
+      "mapped_name": "NIELIT Srinagar",
       "city": "Srinagar",
       "state": "Jammu & Kashmir",
       "year_established": 1980,
@@ -4334,6 +4449,7 @@
     },
     {
       "name": "National Institute of Food Technology Entrepreneurship and Management, Kundli",
+      "mapped_name": "NIFTEM Kundli",
       "city": "Kundli",
       "state": "Haryana",
       "year_established": 2012,
@@ -4371,6 +4487,7 @@
     },
     {
       "name": "National Institute of Food Technology Entrepreneurship and Management, Thanjavur",
+      "mapped_name": "NIFTEM Thanjavur",
       "city": "Thanjavur",
       "state": "Tamil Nadu",
       "year_established": 1967,
@@ -4408,6 +4525,7 @@
     },
     {
       "name": "National Institute of Technical Teachers Training and Research Bhopal",
+      "mapped_name": "NITTTR Bhopal",
       "city": "Bhopal",
       "state": "Madhya Pradesh",
       "year_established": 1965,
@@ -4445,6 +4563,7 @@
     },
     {
       "name": "North Eastern Regional Institute of Science and Technology, Nirjuli-791109 (Itanagar),Arunachal Pradesh",
+      "mapped_name": "NERIST Itanagar",
       "city": "Itanagar",
       "state": "Arunachal Pradesh",
       "year_established": 1984,
@@ -4482,6 +4601,7 @@
     },
     {
       "name": "North-Eastern Hill University, Shillong",
+      "mapped_name": "NEHU Shillong",
       "city": "Shillong",
       "state": "Meghalaya",
       "year_established": 1973,
@@ -4519,6 +4639,7 @@
     },
     {
       "name": "Puducherry Technological University, Puducherry",
+      "mapped_name": "PTU Puducherry",
       "city": "Puducherry",
       "state": "Puducherry",
       "year_established": 1984,
@@ -4556,6 +4677,7 @@
     },
     {
       "name": "Punjab Engineering College, Chandigarh",
+      "mapped_name": "PEC Chandigarh",
       "city": "Chandigarh",
       "state": "Chandigarh",
       "year_established": 1921,
@@ -4593,6 +4715,7 @@
     },
     {
       "name": "Rajiv Gandhi National Aviation University, Fursatganj, Amethi (UP)",
+      "mapped_name": "RGNAU Amethi",
       "city": "Amethi",
       "state": "Uttar Pradesh",
       "year_established": 2013,
@@ -4630,6 +4753,7 @@
     },
     {
       "name": "Sant Longowal Institute of Engineering and Technology",
+      "mapped_name": "SLIET Longowal",
       "city": "Longowal",
       "state": "Punjab",
       "year_established": 1989,
@@ -4667,6 +4791,7 @@
     },
     {
       "name": "School of Engineering, Tezpur University, Napaam, Tezpur",
+      "mapped_name": "Tezpur University School of Engineering",
       "city": "Tezpur",
       "state": "Assam",
       "year_established": 1994,
@@ -4704,6 +4829,7 @@
     },
     {
       "name": "School of Planning & Architecture, Bhopal",
+      "mapped_name": "SPA Bhopal",
       "city": "Bhopal",
       "state": "Madhya Pradesh",
       "year_established": 2008,
@@ -4741,6 +4867,7 @@
     },
     {
       "name": "School of Planning & Architecture, New Delhi",
+      "mapped_name": "SPA New Delhi",
       "city": "New Delhi",
       "state": "Delhi",
       "year_established": 1941,
@@ -4778,6 +4905,7 @@
     },
     {
       "name": "School of Planning & Architecture: Vijayawada",
+      "mapped_name": "SPA Vijayawada",
       "city": "Vijayawada",
       "state": "Andhra Pradesh",
       "year_established": 2008,
@@ -4815,6 +4943,7 @@
     },
     {
       "name": "School of Studies of Engineering and Technology, Guru Ghasidas Vishwavidyalaya, Bilaspur",
+      "mapped_name": "Guru Ghasidas University SOSET Bilaspur",
       "city": "Bilaspur",
       "state": "Chhattisgarh",
       "year_established": 1997,
@@ -4852,6 +4981,7 @@
     },
     {
       "name": "Shri G. S. Institute of Technology and Science Indore",
+      "mapped_name": "SGSITS Indore",
       "city": "Indore",
       "state": "Madhya Pradesh",
       "year_established": 1952,
@@ -4889,6 +5019,7 @@
     },
     {
       "name": "Shri Mata Vaishno Devi University, Katra, Jammu & Kashmir",
+      "mapped_name": "SMVDU Katra",
       "city": "Katra",
       "state": "Jammu & Kashmir",
       "year_established": 1999,
@@ -4926,6 +5057,7 @@
     },
     {
       "name": "University of Hyderabad",
+      "mapped_name": "University of Hyderabad",
       "city": "Hyderabad",
       "state": "Telangana",
       "year_established": 1974,
@@ -4962,7 +5094,4 @@
       "campus_rating": 4.2
     }
   ]
-
-
-
 }
