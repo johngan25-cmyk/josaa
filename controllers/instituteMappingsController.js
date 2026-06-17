@@ -11,10 +11,15 @@ export const getInstituteMappings = async (req, res) => {
     res.status(200).json({
       success: true,
       data: {
-        iits: mappingData.institutes.iits,
-        nits: mappingData.institutes.nits,
-        iiits: mappingData.institutes.iiits,
-        gftis: mappingData.institutes.gftis,
+        total_institutes: mappingData.total_institutes,
+        iitSTL: mappingData.institutes.iits,
+        nitSTL:mappingData.institutes.nits,
+        iiitSTL:mappingData.institutes.iiits,
+        gftisSTL:mappingData.institutes.gftis,
+        iitLTS:mappingData.reverse_institutes.iits,
+        nitLTS:mappingData.reverse_institutes.nits,
+        iiitLTS:mappingData.reverse_institutes.iiits,
+        gftiLTS:mappingData.reverse_institutes.gftis,
       },
     });
   } catch (error) {
